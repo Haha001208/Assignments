@@ -1,7 +1,3 @@
 header{text-align: center;font-size: 40px;color: azure;}
-ul{flex-direction: row;}
-li{float:left;list-style: none;padding-right: 3.2cm;padding-top: 0cm;
-    padding-left: 2.5cm;text-align: center;color:blue;background-color: white;
-font-weight: bold;}
 html{background-image: url(soccer.jpg);}
-*{box-sizing: border-box;}
+
