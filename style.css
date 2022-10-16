@@ -1,2 +1,14 @@
 header{text-align: center;font-size: 40px;color: azure;}
 html{background-image: url(soccer.jpg);}
+body{
+    display: flex;
+    flex-direction: column;
+}
+ul{flex-direction: row;}
+li{float:left;list-style: none;padding-right: 3.2cm;padding-top: 0cm;
+padding-left: 2.5cm;text-align: center;color:blue;background-color: white;
+font-weight: bold;}
+li:hover{background-color:blueviolet}
+a{text-decoration: none;
+color:black;}
+a:hover{color:white;}
